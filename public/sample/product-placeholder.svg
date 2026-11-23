@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400">
+  <rect width="400" height="400" rx="24" fill="#ecfdf5"/>
+  <rect x="80" y="75" width="240" height="190" rx="16" fill="#d1fae5" stroke="#059669" stroke-width="2"/>
+  <circle cx="150" cy="140" r="22" fill="#10b981"/>
+  <path d="M105 235 L165 175 L210 215 L255 160 L295 235 Z" fill="#059669"/>
+  <text x="200" y="305" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#065f46" text-anchor="middle">Dorkari Shopping</text>
+  <text x="200" y="335" font-family="Arial, sans-serif" font-size="14" fill="#047857" text-anchor="middle">প্রয়োজনের পণ্য, সহজ সমাধান</text>
+</svg>
