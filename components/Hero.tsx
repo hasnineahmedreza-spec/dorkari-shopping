@@ -24,7 +24,7 @@ export function Hero() {
             শপ করুন এখনই
           </Link>
           <a
-            href="https://wa.me/8801700000000"
+            href="https://wa.me/8801690111182"
             target="_blank"
             rel="noopener noreferrer"
             className="bg-white/10 hover:bg-white/20 text-white font-medium px-5 py-2.5 rounded-lg text-sm border border-white/20 transition-colors"
